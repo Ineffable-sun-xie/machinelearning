@@ -1,1 +1,1 @@
-this is a repository for learnign machine learning, maintained by chengjia sun.
+this is a repository for learning machine learning, maintained by chengjia sun.
